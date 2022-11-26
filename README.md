@@ -21,15 +21,15 @@
 
 ![](image1.png)![](image2.png)
 
-1. git init в папці з файлами hello.txt і bash.sh
+2. git init в папці з файлами hello.txt і bash.sh
 
 ![](image3.png)
 
-1. git commit
+3. git commit
 
 ![](image4.png)
 
-1. git push у гілку lab\_works\_one\_two
+4. git push у гілку lab\_works\_one\_two
 
 ![](image5.png)
 
